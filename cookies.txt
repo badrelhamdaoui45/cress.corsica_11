@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+corse.dreets.gouv.fr	TRUE	/	FALSE	1999999999	BIGipServerpool-dreets2.cegedim.cloud-HTTP	!Pn4uY91NBFK/JqpWDPlD0yXzT0UGhpX9f0jzXMKr190q+8EAN2+O1OYPRlb3BonarRxDtWadscDeZx1aftXQu0PDC4Q=
+travail-emploi.gouv.fr	TRUE	/	FALSE	1999999999	BIGipServerpool-dicom-portail-dares2.cegedim.cloud-HTTP	!CUzfmHrbPQLR5E1WDPlD0yXzT0UGhiSwLL0yUy0UrsIU6V+0G5nRwLC2HWz+L7q4UhpLF1jO8TWqwRs06yC7cGNuIC7w
+travail-emploi.gouv.fr	TRUE	/	FALSE	1999999999	TS01f99fc7	01352d381154f2fe249881cf499cdf4c862d5264f18ac7099b95edc5be763b80afa030d0f7d36ade5e8f8df135862393d9b2bbb96c
+

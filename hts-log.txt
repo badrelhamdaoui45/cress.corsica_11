@@ -1,0 +1,577 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 03 Mar 2024 16:15:01 at https://cress.corsica +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://cress.corsica -O1 "C:\My Web Sites\https___cress.corsica_11" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:16:33	Error: 	"Method Not Allowed" (405) at link https://cress.corsica/xmlrpc.php (from https://cress.corsica/)
+16:20:23	Warning: 	Moved Permanently for https://cress.corsica/index.php/contact/
+16:20:24	Warning: 	File has moved from https://cress.corsica/index.php/contact/ to https://cress.corsica/contact/
+16:20:27	Warning: 	Moved Permanently for https://cress.corsica/?page_id=3&preview=true
+16:20:27	Warning: 	File has moved from https://cress.corsica/?page_id=3&preview=true to https://cress.corsica/?page_id=3
+16:20:46	Error: 	"Bad Request" (400) at link https://cress.corsica/wp-admin/admin-ajax.php?action=rest-nonce (from https://cress.corsica/)
+16:20:47	Error: 	"Bad Request" (400) at link https://cress.corsica/wp-admin/admin-ajax.php (from https://cress.corsica/)
+16:21:04	Warning: 	File not parsed, looks like binary: https://cress.corsica/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-regular-400.woff2
+16:21:04	Warning: 	File not parsed, looks like binary: https://cress.corsica/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-solid-900.woff2
+16:21:09	Warning: 	File not parsed, looks like binary: https://cress.corsica/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-brands-400.woff2
+16:21:11	Warning: 	File not parsed, looks like binary: https://cress.corsica/wp-content/plugins/booking/assets/libs/bootstrap/fonts/glyphicons-halflings-regular.woff2
+16:21:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/wp-json/wp/v2/pages/27 (from https://cress.corsica/cress-corsica/)
+16:21:12	Warning: 	Moved Permanently for https://cress.corsica/?p=27
+16:21:12	Warning: 	File has moved from https://cress.corsica/?p=27 to https://cress.corsica/cress-corsica/
+16:21:13	Warning: 	Moved Permanently for https://cress.corsica/index.php/devenir-membre/
+16:21:13	Warning: 	File has moved from https://cress.corsica/index.php/devenir-membre/ to https://cress.corsica/devenir-membre/
+16:21:13	Warning: 	Moved Permanently for https://cress.corsica/index.php/adherents-2/
+16:21:13	Warning: 	File has moved from https://cress.corsica/index.php/adherents-2/ to https://cress.corsica/adherents-2/
+16:21:13	Warning: 	Moved Permanently for https://cress.corsica/cress-corsica/ https://cress.corsica/rapport-dactivite-2019-cress-corsica_ag2020/
+16:21:13	Warning: 	File has moved from https://cress.corsica/cress-corsica/ https://cress.corsica/rapport-dactivite-2019-cress-corsica_ag2020/ to https://cress.corsica/cress-corsica/%20https:/cress.corsica/rapport-dactivite-2019-cress-corsica_ag2020/
+16:21:13	Warning: 	Retry after error -4 (Incorrect length (154672 Bytes, 364086 expected)) at link https://cress.corsica/wp-content/uploads/2024/01/COMPTES-ANNUELS-CRESS-2021-1.pdf (from https://cress.corsica/cress-corsica/)
+16:21:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/wp-content/uploads/2024/01/COMPTES-ANNUELS-CRESS-2022_2.pdf (from https://cress.corsica/cress-corsica/)
+16:21:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/wp-json/wp/v2/pages/42 (from https://cress.corsica/adherents-2/)
+16:21:40	Warning: 	Moved Permanently for https://cress.corsica/?p=42
+16:21:40	Warning: 	File has moved from https://cress.corsica/?p=42 to https://cress.corsica/adherents-2/
+16:21:41	Warning: 	Moved Permanently for https://cress.corsica/?p=33
+16:21:41	Warning: 	File has moved from https://cress.corsica/?p=33 to https://cress.corsica/guides-ess/
+16:21:43	Warning: 	Moved Permanently for https://cress.corsica/?p=62
+16:21:43	Warning: 	File has moved from https://cress.corsica/?p=62 to https://cress.corsica/acteurs-dispositifs/
+16:21:45	Warning: 	Moved Permanently for https://cress.corsica/?p=584
+16:21:45	Warning: 	File has moved from https://cress.corsica/?p=584 to https://cress.corsica/appels-a-projets/
+16:21:48	Warning: 	Moved Permanently for https://cress.corsica/author/admin5094/
+16:21:48	Warning: 	File has moved from https://cress.corsica/author/admin5094/ to https://cress.corsica
+16:23:29	Warning: 	Moved Permanently for https://cress.corsica/?p=35
+16:23:29	Warning: 	File has moved from https://cress.corsica/?p=35 to https://cress.corsica/blog/
+16:24:00	Warning: 	Moved Permanently for https://cress.corsica/?p=6111
+16:24:00	Warning: 	File has moved from https://cress.corsica/?p=6111 to https://cress.corsica/appel-a-manifestation-dinteret-ami-ecomaison-reemploi-et-territoires/
+16:24:11	Warning: 	Moved Permanently for https://cress.corsica/?p=6100
+16:24:11	Warning: 	File has moved from https://cress.corsica/?p=6100 to https://cress.corsica/aap-fonds-de-developpement-de-la-vie-associative-fdva2024-2/
+16:24:17	Warning: 	Moved Permanently for https://cress.corsica/?p=6094
+16:24:17	Warning: 	File has moved from https://cress.corsica/?p=6094 to https://cress.corsica/appel-a-manifestation-dinteret-ami-textiles-2024-dess-france/
+16:24:21	Warning: 	Moved Permanently for https://cress.corsica/?p=6085
+16:24:21	Warning: 	File has moved from https://cress.corsica/?p=6085 to https://cress.corsica/academie-de-corse-appel-a-manifestation-dinteret-pour-lidentification-dorganismes-de-formation-dans-le-cadre-des-formations-civiques-et-citoyennes-volet-theorique/
+16:24:24	Warning: 	Moved Permanently for https://cress.corsica/?p=6073
+16:24:24	Warning: 	File has moved from https://cress.corsica/?p=6073 to https://cress.corsica/valdelia-appel-a-candidatures-pour-le-programme-daccompagnement-lart-la-matiere-edition-02/
+16:24:26	Warning: 	Moved Permanently for https://cress.corsica/?p=6055
+16:24:26	Warning: 	File has moved from https://cress.corsica/?p=6055 to https://cress.corsica/concours-sengager-pour-les-quartier-13eme-edition/
+16:24:43	Warning: 	Unexpected socket error during pre-loop
+16:25:55	Warning: 	Retry after error -4 (Incorrect length (5288 Bytes, 6741 expected)) at link https://cress.corsica/le-club-les-entreprises-qui-sengagent-x-siae/ (from https://cress.corsica/page/4/?et_blog)
+16:26:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/wp-content/uploads/2023/10/Affiche-Reunion-info_Corte-16.11.2023-1-400x250.png (from https://cress.corsica/page/5/?et_blog)
+16:26:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/wp-content/uploads/2023/10/Fonds-reemploi-TLC_AMI-ESS-France-2023-400x250.jpg (from https://cress.corsica/page/5/?et_blog)
+16:32:08	Error: 	"Not Found" (404) at link https://cress.corsica/?page_id=3 (from https://cress.corsica/?page_id=3&preview=true)
+16:32:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/category/appels-a-projets/page/10/ (from https://cress.corsica/category/appels-a-projets/)
+16:32:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/category/news/page/2/ (from https://cress.corsica/category/news/)
+16:32:36	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/category/news/page/3/ (from https://cress.corsica/category/news/)
+16:33:23	Warning: 	Moved Permanently for https://cress.corsica/?p=6041
+16:33:23	Warning: 	File has moved from https://cress.corsica/?p=6041 to https://cress.corsica/ouverture-candidatures-contrat-de-ville-ajaccio-2024/
+16:33:25	Warning: 	Moved Permanently for https://cress.corsica/?p=6031
+16:33:25	Warning: 	File has moved from https://cress.corsica/?p=6031 to https://cress.corsica/aap-fonds-maif-pour-leducation-2024/
+16:33:28	Warning: 	Moved Permanently for https://cress.corsica/?p=5924
+16:33:28	Warning: 	File has moved from https://cress.corsica/?p=5924 to https://cress.corsica/aap-fonds-de-developpement-de-la-vie-associative-fdva2024/
+16:33:32	Warning: 	Moved Permanently for https://cress.corsica/?p=5867
+16:33:32	Warning: 	File has moved from https://cress.corsica/?p=5867 to https://cress.corsica/appel-a-projets-cest-mon-patrimoine-edition-2024/
+16:34:38	Warning: 	Unexpected socket error during pre-loop
+16:40:07	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://cress.corsica/?p=5894 (from https://cress.corsica/plaidoyer-lutte-contre-le-gaspillage-alimentaire-les-attentes-et-propositions-de-less/)
+16:40:09	Warning: 	Retry after error -4 (Interrupted transfer) at link https://cress.corsica/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcress.corsica%2Fplaidoyer-lutte-contre-le-gaspillage-alimentaire-les-attentes-et-propositions-de-less%2F (from https://cress.corsica/plaidoyer-lutte-contre-le-gaspillage-alimentaire-les-attentes-et-propositions-de-less/)
+16:40:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/wp-content/et-cache/5894/et-core-unified-5894.min.css?ver=1707579894 (from https://cress.corsica/plaidoyer-lutte-contre-le-gaspillage-alimentaire-les-attentes-et-propositions-de-less/)
+16:40:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://cress.corsica/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcress.corsica%2Fplaidoyer-lutte-contre-le-gaspillage-alimentaire-les-attentes-et-propositions-de-less%2F
+16:40:12	Warning: 	Retry after error -4 (Incorrect length (6639 Bytes, 12530 expected)) at link https://cress.corsica/wp-json/wp/v2/posts/5860 (from https://cress.corsica/interreg-next-med-evenement-dinformation-focus-sur-le-premier-appel-a-propositions/)
+16:40:13	Warning: 	Moved Permanently for https://cress.corsica/?p=5860
+16:40:13	Warning: 	File has moved from https://cress.corsica/?p=5860 to https://cress.corsica/interreg-next-med-evenement-dinformation-focus-sur-le-premier-appel-a-propositions/
+16:40:13	Warning: 	Retry after error -4 (Receive Error) at link https://cress.corsica/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcress.corsica%2Finterreg-next-med-evenement-dinformation-focus-sur-le-premier-appel-a-propositions%2F&format=xml (from https://cress.corsica/interreg-next-med-evenement-dinformation-focus-sur-le-premier-appel-a-propositions/)
+16:40:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://cress.corsica/wp-json/wp/v2/posts/5860
+16:40:17	Warning: 	Moved Permanently for https://cress.corsica/?p=5847
+16:40:17	Warning: 	File has moved from https://cress.corsica/?p=5847 to https://cress.corsica/aap-2024-la-france-sengage/
+16:40:17	Warning: 	Moved Permanently for https://cress.corsica/?p=5827
+16:40:17	Warning: 	File has moved from https://cress.corsica/?p=5827 to https://cress.corsica/prix-de-linspiration-en-ess-2024-de-la-fondation-credit-cooperatif/
+16:40:18	Warning: 	Moved Permanently for https://cress.corsica/?p=5819
+16:40:18	Warning: 	File has moved from https://cress.corsica/?p=5819 to https://cress.corsica/mobilite-erasmus-a-seville-du-11-au-16-decembre-2023/
+16:40:18	Warning: 	Moved Permanently for https://cress.corsica/?p=5806
+16:40:18	Warning: 	File has moved from https://cress.corsica/?p=5806 to https://cress.corsica/rapport-recherches-solidarites-associations-en-region-reperes-et-chiffres-cles-2023/
+16:40:19	Warning: 	Moved Permanently for https://cress.corsica/?p=5791
+16:40:19	Warning: 	File has moved from https://cress.corsica/?p=5791 to https://cress.corsica/appel-a-projets-2024-mutuelle-de-la-corse-fonds-de-dotation/
+16:40:19	Warning: 	Moved Permanently for https://cress.corsica/?p=5765
+16:40:19	Warning: 	File has moved from https://cress.corsica/?p=5765 to https://cress.corsica/rejoignez-nous-le-16-decembre-a-porto-vecchio/
+16:40:19	Warning: 	Moved Permanently for https://cress.corsica/?p=5757
+16:40:19	Warning: 	File has moved from https://cress.corsica/?p=5757 to https://cress.corsica/webinaire-udes-paca-corse-la-pcrh-et-lafest-les-dispositifs-pour-les-entreprises-de-less/
+16:40:19	Warning: 	Moved Permanently for https://cress.corsica/?p=5747
+16:40:19	Warning: 	File has moved from https://cress.corsica/?p=5747 to https://cress.corsica/semaine-europeenne-de-la-reduction-des-dechets-serd23-corse/
+16:40:20	Warning: 	Moved Permanently for https://cress.corsica/?p=5737
+16:40:20	Warning: 	File has moved from https://cress.corsica/?p=5737 to https://cress.corsica/chjama-a-manifistazioni-dintaressu-habitat-inclusif-2023-2024/
+16:40:20	Warning: 	Moved Permanently for https://cress.corsica/?p=5726
+16:40:20	Warning: 	File has moved from https://cress.corsica/?p=5726 to https://cress.corsica/panorama-de-la-pauvrete-en-corse-une-diversite-de-situations-individuelles-et-territoriales-insee-corse/
+16:40:20	Warning: 	Moved Permanently for https://cress.corsica/?p=5715
+16:40:20	Warning: 	File has moved from https://cress.corsica/?p=5715 to https://cress.corsica/atelier-apec-corse-x-cress-corsica-construire-sa-marque-employeur/
+16:40:30	Warning: 	Moved Permanently for https://cress.corsica/?p=5699
+16:40:30	Warning: 	File has moved from https://cress.corsica/?p=5699 to https://cress.corsica/moisess-atelier-les-societes-cooperatives-provence-alpes-cotes-dazur-corse-cress-corsica-les-modeles-scic-et-scop-creer-ou-reprendre-une-entreprise/
+16:40:30	Warning: 	Moved Permanently for https://cress.corsica/?p=5689
+16:40:30	Warning: 	File has moved from https://cress.corsica/?p=5689 to https://cress.corsica/ess-france-lance-son-ami-pour-soutenir-les-activites-de-reemploi-textiles/
+16:40:37	Warning: 	Moved Permanently for https://cress.corsica/?p=5676
+16:40:37	Warning: 	File has moved from https://cress.corsica/?p=5676 to https://cress.corsica/aap-du-reseau-hapa-lhabitat-partage-et-accompagne-en-3d-defiche-developpe-developpe/
+16:40:40	Warning: 	Moved Permanently for https://cress.corsica/?p=5671
+16:40:40	Warning: 	File has moved from https://cress.corsica/?p=5671 to https://cress.corsica/ars-agence-regionale-de-la-sante-corse-aap-promotion-de-la-sante-2023-2024/
+16:40:41	Warning: 	Moved Permanently for https://cress.corsica/?p=5662
+16:40:41	Warning: 	File has moved from https://cress.corsica/?p=5662 to https://cress.corsica/concours-entrepreneuriat-engage-edition-2023-corse-active-pour-linitiative-capi/
+16:40:41	Warning: 	Moved Permanently for https://cress.corsica/?p=5652
+16:40:41	Warning: 	File has moved from https://cress.corsica/?p=5652 to https://cress.corsica/podcast-capsule-lentrepreneur-ess-est-il-un-entrepreneur-comme-un-autre/
+16:40:55	Warning: 	Moved Permanently for https://cress.corsica/?p=5263
+16:40:55	Warning: 	File has moved from https://cress.corsica/?p=5263 to https://cress.corsica/semaine-des-achats-socialement-et-ecologiquement-responsables-aser/
+16:40:57	Warning: 	Moved Permanently for https://cress.corsica/?p=5238
+16:40:57	Warning: 	File has moved from https://cress.corsica/?p=5238 to https://cress.corsica/universita-di-corsica-pasquale-paoli-formation-diplome-universitaire-dbu-manager-des-entreprises-et-des-organisations/
+16:40:58	Warning: 	Moved Permanently for https://cress.corsica/?p=5230
+16:40:58	Warning: 	File has moved from https://cress.corsica/?p=5230 to https://cress.corsica/candidatez-au-prix-de-less/
+16:40:59	Warning: 	Moved Permanently for https://cress.corsica/?p=5198
+16:40:59	Warning: 	File has moved from https://cress.corsica/?p=5198 to https://cress.corsica/appel-a-projets-de-la-fondation-sfr-fonds-de-soutien-citoyen-2023/
+16:41:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/wp-json/wp/v2/posts/5177 (from https://cress.corsica/programme-de-la-3eme-conference-territoriale-de-less-en-corse-08-06-2023-ajaccio/)
+16:41:00	Warning: 	Moved Permanently for https://cress.corsica/?p=5177
+16:41:00	Warning: 	File has moved from https://cress.corsica/?p=5177 to https://cress.corsica/programme-de-la-3eme-conference-territoriale-de-less-en-corse-08-06-2023-ajaccio/
+16:41:01	Warning: 	Moved Permanently for https://cress.corsica/?p=5165
+16:41:01	Warning: 	File has moved from https://cress.corsica/?p=5165 to https://cress.corsica/loffre-de-services-de-la-cress-corsica-2023/
+16:41:45	Warning: 	Moved Permanently for https://cress.corsica/?p=4524
+16:41:45	Warning: 	File has moved from https://cress.corsica/?p=4524 to https://cress.corsica/appel-a-projets-mutuelle-aesio-2022-les-defis-aesio/
+16:41:46	Warning: 	Moved Permanently for https://cress.corsica/?p=4519
+16:41:46	Warning: 	File has moved from https://cress.corsica/?p=4519 to https://cress.corsica/union-europeenne-visio-daccompagnement-des-candidats-au-2e-appel-du-programme-interreg-euro-med/
+16:41:47	Warning: 	Moved Permanently for https://cress.corsica/?p=4505
+16:41:47	Warning: 	File has moved from https://cress.corsica/?p=4505 to https://cress.corsica/prix-fondation-cognacq-jay-inventer-la-solidarite-sociale-de-demain/
+16:41:48	Warning: 	Moved Permanently for https://cress.corsica/?p=4498
+16:41:48	Warning: 	File has moved from https://cress.corsica/?p=4498 to https://cress.corsica/appel-a-projet-2022-alimentation-sante/
+16:41:48	Warning: 	Moved Permanently for https://cress.corsica/?p=4491
+16:41:48	Warning: 	File has moved from https://cress.corsica/?p=4491 to https://cress.corsica/appel-a-projets-collectivite-de-corse-bien-vieillir-en-corse-invechja-be-in-corsica-2023-2024/
+16:41:49	Warning: 	Moved Permanently for https://cress.corsica/?p=4484
+16:41:49	Warning: 	File has moved from https://cress.corsica/?p=4484 to https://cress.corsica/projet-annuel-dreets-de-corse-programme-111-amelioration-de-la-qualite-de-lemploi-et-des-relations-du-travail/
+16:41:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/wp-content/uploads/2022/09/Logo_PTCE_Saison_3_550-400x163.jpg (from https://cress.corsica/page/19/?et_blog)
+16:42:25	Warning: 	Unexpected socket error during pre-loop
+16:43:11	Error: 	"Error when decompressing" (-1) at link https://cress.corsica/seminaire-economie-circulaire-oec-iµnec-comment-accelerer-le-deploiement-de-leconomie-circulaire-en-corse/ (from https://cress.corsica/page/21/?et_blog)
+16:43:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/offre-demploi-association-service-civique-solidarite-seniors-corse-charge-e-de-developpement/ (from https://cress.corsica/page/21/?et_blog)
+16:43:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/wp-content/uploads/2022/06/Appel-a-Projets-DREETS-de-Corse-Clause-sociale-400x250.png (from https://cress.corsica/page/22/?et_blog)
+16:44:07	Warning: 	Moved Permanently for https://cress.corsica/?p=3698
+16:44:07	Warning: 	File has moved from https://cress.corsica/?p=3698 to https://cress.corsica/aap-2021-collectivite-de-corse-innovation-aide-alimentaire/
+16:44:09	Warning: 	Moved Permanently for https://cress.corsica/?p=3685
+16:44:09	Warning: 	File has moved from https://cress.corsica/?p=3685 to https://cress.corsica/elections-territoriales-2021-les-acteurs-de-less-se-mobilisent/
+16:44:10	Warning: 	Moved Permanently for https://cress.corsica/?p=3676
+16:44:10	Warning: 	File has moved from https://cress.corsica/?p=3676 to https://cress.corsica/lancement-carteco-la-carte-collaborative-des-structures-de-less-qui-font-la-transition-ecologique/
+16:44:11	Warning: 	Moved Permanently for https://cress.corsica/?p=3662
+16:44:11	Warning: 	File has moved from https://cress.corsica/?p=3662 to https://cress.corsica/actualite-save-the-date-parution-de-la-carte-collaborative-des-structures-de-less-de-leconomie-circulaire/
+16:44:12	Warning: 	Moved Permanently for https://cress.corsica/?p=3648
+16:44:12	Warning: 	File has moved from https://cress.corsica/?p=3648 to https://cress.corsica/vous-etes-une-association-et-vous-avez-besoin-dembaucher/
+16:44:14	Warning: 	Moved Permanently for https://cress.corsica/?p=3638
+16:44:14	Warning: 	File has moved from https://cress.corsica/?p=3638 to https://cress.corsica/prolongation-jusquau-27-mai-de-lappel-a-contribution-du-forum-national-de-less-lis/
+16:47:24	Warning: 	Moved Permanently for https://cress.corsica/?p=2071
+16:47:24	Warning: 	File has moved from https://cress.corsica/?p=2071 to https://cress.corsica/club-rh/
+16:47:25	Warning: 	Moved Permanently for https://cress.corsica/?p=1840
+16:47:25	Warning: 	File has moved from https://cress.corsica/?p=1840 to https://cress.corsica/conference-ess-niort/
+16:47:26	Warning: 	Moved Permanently for https://cress.corsica/?p=618
+16:47:26	Warning: 	File has moved from https://cress.corsica/?p=618 to https://cress.corsica/accompagner-les-enfants-leur-famille-et-les-jeunes-en-difficulte/
+16:47:28	Warning: 	Moved Permanently for https://cress.corsica/?p=610
+16:47:28	Warning: 	File has moved from https://cress.corsica/?p=610 to https://cress.corsica/le-grand-prix-2020-des-bonnes-nouvelles-des-territoires/
+16:47:30	Warning: 	Moved Permanently for https://cress.corsica/?p=603
+16:47:30	Warning: 	File has moved from https://cress.corsica/?p=603 to https://cress.corsica/concours-2020-fondation-la-france-sengage/
+16:49:44	Warning: 	Unexpected socket error during pre-loop
+16:50:35	Warning: 	Moved Permanently for https://cress.corsica/?p=117
+16:50:35	Warning: 	File has moved from https://cress.corsica/?p=117 to https://cress.corsica/contact/
+16:50:36	Warning: 	Moved Permanently for https://cress.corsica/?p=1939
+16:50:36	Warning: 	File has moved from https://cress.corsica/?p=1939 to https://cress.corsica/devenir-membre/
+16:50:38	Warning: 	Moved Permanently for https://cress.corsica/index.php/2019/11/14/charte-de-less-de-la-cress-corsica/
+16:50:38	Warning: 	File has moved from https://cress.corsica/index.php/2019/11/14/charte-de-less-de-la-cress-corsica/ to https://cress.corsica/2019/11/14/charte-de-less-de-la-cress-corsica/
+16:52:38	Warning: 	Moved Permanently for https://cress.corsica/?p=5630
+16:52:38	Warning: 	File has moved from https://cress.corsica/?p=5630 to https://cress.corsica/aap-agence-nationale-de-la-cohesion-des-territoires-associations-structurantes-en-milieu-rural-2023/
+16:52:38	Warning: 	Moved Permanently for https://cress.corsica/?p=5618
+16:52:38	Warning: 	File has moved from https://cress.corsica/?p=5618 to https://cress.corsica/appel-a-mobilisation-seve-emploi-2024/
+16:52:39	Warning: 	Moved Permanently for https://cress.corsica/?p=5596
+16:52:39	Warning: 	File has moved from https://cress.corsica/?p=5596 to https://cress.corsica/aap-collectivite-de-corse-mise-en-place-dactions-daccompagnement-et-de-soutien-des-proches-aidants-sur-le-territoire-de-la-corse-en-2024/
+16:52:40	Warning: 	Moved Permanently for https://cress.corsica/?p=5577
+16:52:40	Warning: 	File has moved from https://cress.corsica/?p=5577 to https://cress.corsica/aap-prix-fondation-cognac-jay-inventer-la-solidarite-sociale-de-demain/
+16:52:40	Warning: 	Moved Permanently for https://cress.corsica/?p=5568
+16:52:40	Warning: 	File has moved from https://cress.corsica/?p=5568 to https://cress.corsica/aap-reemploi-refashion-2023-allonger-la-duree-de-vie-des-textiles-et-chaussures/
+16:52:41	Warning: 	Moved Permanently for https://cress.corsica/?p=5561
+16:52:41	Warning: 	File has moved from https://cress.corsica/?p=5561 to https://cress.corsica/aap-de-lanact-adapter-le-management-a-la-diversite-des-populations-des-entreprises-insulaires-2023/
+16:52:44	Warning: 	Moved Permanently for https://cress.corsica/?p=5534
+16:52:44	Warning: 	File has moved from https://cress.corsica/?p=5534 to https://cress.corsica/aap-caisse-dallocations-familiales-de-corse-du-sud-contrat-local-daccompagnement-a-la-scolarite-clas-2023-2024/
+16:52:47	Warning: 	Moved Permanently for https://cress.corsica/?p=5496
+16:52:47	Warning: 	File has moved from https://cress.corsica/?p=5496 to https://cress.corsica/valdelia-appel-doffres-filiere-des-dea-professionnels-marche-logistique-2023-2029/
+16:52:47	Warning: 	Moved Permanently for https://cress.corsica/?p=5485
+16:52:47	Warning: 	File has moved from https://cress.corsica/?p=5485 to https://cress.corsica/dispositifs-daide-en-faveur-des-defis-sportifs-solidaires-campagne-2024-collectivite-de-corse/
+16:52:48	Warning: 	Moved Permanently for https://cress.corsica/?p=5456
+16:52:48	Warning: 	File has moved from https://cress.corsica/?p=5456 to https://cress.corsica/appel-a-projets-deffinov-tiers-lieux-2023/
+16:52:48	Warning: 	Retry after error -4 (Receive Error) at link https://cress.corsica/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcress.corsica%2Fappel-a-projets-deffinov-tiers-lieux-2023%2F&format=xml (from https://cress.corsica/appel-a-projets-deffinov-tiers-lieux-2023/)
+16:52:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/wp-content/uploads/2023/07/DREETS-Corse.jpg (from https://cress.corsica/appel-a-projets-deffinov-tiers-lieux-2023/)
+16:52:49	Warning: 	Moved Permanently for https://cress.corsica/?p=5447
+16:52:49	Warning: 	File has moved from https://cress.corsica/?p=5447 to https://cress.corsica/mobin-france-le-cler-reseau-pour-la-transition-energetique-programme-tims-financer-des-projets-de-mobilite-durable-et-inclusive-sur-les-territoires/
+16:52:50	Warning: 	Moved Permanently for https://cress.corsica/?p=5438
+16:52:50	Warning: 	File has moved from https://cress.corsica/?p=5438 to https://cress.corsica/appel-a-projets-2023-ademe-fonds-tourisme-durable-formes-emergentes-de-tourisme/
+16:52:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcress.corsica%2Fappel-a-projets-2023-ademe-fonds-tourisme-durable-formes-emergentes-de-tourisme%2F (from https://cress.corsica/appel-a-projets-2023-ademe-fonds-tourisme-durable-formes-emergentes-de-tourisme/)
+16:52:57	Warning: 	Moved Permanently for https://cress.corsica/?p=5430
+16:52:57	Warning: 	File has moved from https://cress.corsica/?p=5430 to https://cress.corsica/appel-a-projets-de-la-fondation-orange-metiers-de-demain-2023/
+16:53:02	Warning: 	Moved Permanently for https://cress.corsica/?p=5352
+16:53:02	Warning: 	File has moved from https://cress.corsica/?p=5352 to https://cress.corsica/appel-a-manifestation-dinteret-mobilites-erasmus-ess-2023-2024/
+16:53:08	Warning: 	Moved Permanently for https://cress.corsica/?p=5316
+16:53:08	Warning: 	File has moved from https://cress.corsica/?p=5316 to https://cress.corsica/ptce-poles-territoriaux-de-cooperation-economique-2e-phase-de-lami-2023/
+16:53:13	Error: 	"Error when decompressing" (-1) at link https://cress.corsica/👻-halloween-👻-pensez-seconde-main-esscorsica🎃/ (from https://cress.corsica/category/conseil-du-mois/)
+16:53:16	Warning: 	Moved Permanently for https://cress.corsica/?p=5133
+16:53:16	Warning: 	File has moved from https://cress.corsica/?p=5133 to https://cress.corsica/appel-a-propositions-de-la-communaute-dagglomeration-du-pays-ajaccien-capa-dispositif-triennal-de-soutien-a-leconomie-sociale-et-solidaire-2023-2025/
+16:53:18	Warning: 	Moved Permanently for https://cress.corsica/?p=5089
+16:53:18	Warning: 	File has moved from https://cress.corsica/?p=5089 to https://cress.corsica/6eme-edition-du-concours-trophenergies-de-lagence-damenagement-durable-durbanisme-et-denergie-de-la-corse-aue/
+16:53:18	Warning: 	Moved Permanently for https://cress.corsica/?p=5083
+16:53:18	Warning: 	File has moved from https://cress.corsica/?p=5083 to https://cress.corsica/appel-a-projet-carsat-ameliorer-les-lieux-de-vie-collectifs-pour-les-seniors-autonomes/
+16:53:19	Warning: 	Moved Permanently for https://cress.corsica/?p=5078
+16:53:19	Warning: 	File has moved from https://cress.corsica/?p=5078 to https://cress.corsica/residence-dacceleration-de-lassociation-emaho/
+16:53:20	Warning: 	Moved Permanently for https://cress.corsica/?p=5069
+16:53:20	Warning: 	File has moved from https://cress.corsica/?p=5069 to https://cress.corsica/appel-a-projets-ars-de-corse-collectivite-de-corse-draf-de-corse-culture-et-sante-programmation-2023-2024/
+16:54:58	Warning: 	Moved Permanently for https://cress.corsica/?p=5060
+16:54:58	Warning: 	File has moved from https://cress.corsica/?p=5060 to https://cress.corsica/appel-a-projets-cest-mon-patrimoine-edition-2023/
+16:55:02	Warning: 	Moved Permanently for https://cress.corsica/?p=5054
+16:55:02	Warning: 	File has moved from https://cress.corsica/?p=5054 to https://cress.corsica/les-premiers-trophees-des-femmes-de-less/
+16:55:12	Warning: 	Moved Permanently for https://cress.corsica/?p=5049
+16:55:12	Warning: 	File has moved from https://cress.corsica/?p=5049 to https://cress.corsica/le-mouvement-associatif-mene-lenquete-impact-de-la-hausse-brutale-des-prix-sur-votre-association/
+16:55:12	Warning: 	Moved Permanently for https://cress.corsica/?p=5042
+16:55:12	Warning: 	File has moved from https://cress.corsica/?p=5042 to https://cress.corsica/prix-silver-valley-le-concours-dinnovation-pour-la-longevite-edition-2023/
+16:55:13	Warning: 	Moved Permanently for https://cress.corsica/?p=5034
+16:55:13	Warning: 	File has moved from https://cress.corsica/?p=5034 to https://cress.corsica/1er-trophee-entreprenariat-feminin-des-corsican-business-women-terre-de-femmes-terra-di-donne/
+16:55:14	Warning: 	Moved Permanently for https://cress.corsica/?p=5019
+16:55:14	Warning: 	File has moved from https://cress.corsica/?p=5019 to https://cress.corsica/aap-communaute-dagglomeration-du-pays-ajaccien-cispd-2023-conseil-intercommunal-de-securite-et-de-prevention-de-la-delinquance/
+16:55:14	Warning: 	Moved Permanently for https://cress.corsica/?p=5009
+16:55:14	Warning: 	File has moved from https://cress.corsica/?p=5009 to https://cress.corsica/aap-ars-de-corse-promotion-de-la-sante-2023/
+16:55:15	Warning: 	Moved Permanently for https://cress.corsica/?p=4997
+16:55:15	Warning: 	File has moved from https://cress.corsica/?p=4997 to https://cress.corsica/appel-a-projets-fdva-formation-2023-fonds-pour-le-developpement-de-la-vie-associative/
+16:55:15	Warning: 	Moved Permanently for https://cress.corsica/?p=4927
+16:55:15	Warning: 	File has moved from https://cress.corsica/?p=4927 to https://cress.corsica/operation-epiceries-associatives-monepi-par-bouge-ton-coq/
+16:55:15	Warning: 	Moved Permanently for https://cress.corsica/?p=4917
+16:55:15	Warning: 	File has moved from https://cress.corsica/?p=4917 to https://cress.corsica/concours-2023-de-la-france-sengage/
+16:55:18	Warning: 	Moved Permanently for https://cress.corsica/?p=4097
+16:55:18	Warning: 	File has moved from https://cress.corsica/?p=4097 to https://cress.corsica/aap-fonds-maif-pour-leducation/
+16:55:21	Warning: 	Moved Permanently for https://cress.corsica/?p=4091
+16:55:21	Warning: 	File has moved from https://cress.corsica/?p=4091 to https://cress.corsica/prix-silver-valley-2022-le-concours-dinnovation-pour-la-longevite/
+16:55:21	Warning: 	Moved Permanently for https://cress.corsica/?p=4084
+16:55:21	Warning: 	File has moved from https://cress.corsica/?p=4084 to https://cress.corsica/appel-a-candidature-2e-edition-programme-revolutions-par-leco-organisme-valdelia-atelier-extramuros/
+16:55:21	Warning: 	Moved Permanently for https://cress.corsica/?p=2502
+16:55:21	Warning: 	File has moved from https://cress.corsica/?p=2502 to https://cress.corsica/economie-circulaire-vers-de-nouvelles-approches-economiques/
+16:56:04	Warning: 	Moved Permanently for https://cress.corsica/?p=5606
+16:56:04	Warning: 	File has moved from https://cress.corsica/?p=5606 to https://cress.corsica/61-postes-fonjep-ecsi-disponibles-pour-attribution-sur-lensemble-du-territoire-francais/
+16:56:05	Warning: 	Moved Permanently for https://cress.corsica/?p=5140
+16:56:05	Warning: 	File has moved from https://cress.corsica/?p=5140 to https://cress.corsica/offre-de-formations-2023-a-destination-des-ess-cress-corsica-uniformation/
+16:56:06	Warning: 	Moved Permanently for https://cress.corsica/?p=5126
+16:56:06	Warning: 	File has moved from https://cress.corsica/?p=5126 to https://cress.corsica/la-semaine-des-aser-arrive-bientot-les-achats-socialement-et-ecologiquement-responsables/
+16:56:11	Warning: 	Moved Permanently for https://cress.corsica/?p=4110
+16:56:11	Warning: 	File has moved from https://cress.corsica/?p=4110 to https://cress.corsica/ademe-aide-pour-reemploi-reparation-et-reutilisation-financement-de-letude-prealable-et-reutilisation/
+16:56:11	Warning: 	Moved Permanently for https://cress.corsica/?p=4104
+16:56:11	Warning: 	File has moved from https://cress.corsica/?p=4104 to https://cress.corsica/financement-de-projets-transition-ecologique-tremplin-le-guichet-daide-de-lademe-dispositif-france-relance/
+16:56:13	Warning: 	Moved Permanently for https://cress.corsica/?p=4073
+16:56:13	Warning: 	File has moved from https://cress.corsica/?p=4073 to https://cress.corsica/appel-a-candidature-recrutement-du-personnel-dencadrement-du-snu-2022-corse/
+16:56:13	Warning: 	Moved Permanently for https://cress.corsica/?p=4061
+16:56:13	Warning: 	File has moved from https://cress.corsica/?p=4061 to https://cress.corsica/fondation-entreprendre-presentation-de-lappel-a-projets-developpement-du-pouvoir-dagir-des-jeunes/
+16:56:14	Warning: 	Moved Permanently for https://cress.corsica/?p=4051
+16:56:14	Warning: 	File has moved from https://cress.corsica/?p=4051 to https://cress.corsica/panorama-des-entreprises-cooperatives-edition-2022/
+16:56:14	Warning: 	Moved Permanently for https://cress.corsica/?p=4035
+16:56:14	Warning: 	File has moved from https://cress.corsica/?p=4035 to https://cress.corsica/guide-de-sensibilisation-au-rgpd-pour-les-associations/
+16:57:23	Warning: 	Unexpected socket error during pre-loop
+16:57:54	Warning: 	Retry after error -4 (Interrupted transfer) at link https://cress.corsica/les-waldeck-prix-du-mouvement-associatif/ (from https://cress.corsica/blog/page/21/?et_blog)
+16:57:54	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/concours-2022-de-la-fondation-la-france-sengage/ (from https://cress.corsica/blog/page/21/?et_blog)
+16:58:05	Warning: 	Moved Permanently for https://cress.corsica/?p=5894
+16:58:05	Warning: 	File has moved from https://cress.corsica/?p=5894 to https://cress.corsica/plaidoyer-lutte-contre-le-gaspillage-alimentaire-les-attentes-et-propositions-de-less/
+16:58:06	Warning: 	Moved Permanently for https://cress.corsica/?p=5706
+16:58:06	Warning: 	File has moved from https://cress.corsica/?p=5706 to https://cress.corsica/le-club-les-entreprises-qui-sengagent-x-siae/
+16:58:06	Warning: 	Moved Permanently for https://cress.corsica/?p=5586
+16:58:06	Warning: 	File has moved from https://cress.corsica/?p=5586 to https://cress.corsica/pacte-des-solidarites-2024-2027/
+16:58:07	Warning: 	Moved Permanently for https://cress.corsica/?p=5549
+16:58:07	Warning: 	File has moved from https://cress.corsica/?p=5549 to https://cress.corsica/participez-a-la-semaine-europeenne-de-la-reduction-des-dechets-serd-du-18-au-26-novembre-2023/
+16:58:09	Warning: 	Moved Permanently for https://cress.corsica/?p=5527
+16:58:09	Warning: 	File has moved from https://cress.corsica/?p=5527 to https://cress.corsica/newsletter-juillet-2023-esscorsica/
+16:58:12	Warning: 	Moved Permanently for https://cress.corsica/?p=5517
+16:58:12	Warning: 	File has moved from https://cress.corsica/?p=5517 to https://cress.corsica/aesio-mutuelle-paca-corse-aap-les-defis-en-ess/
+16:58:12	Warning: 	Moved Permanently for https://cress.corsica/?p=5382
+16:58:12	Warning: 	File has moved from https://cress.corsica/?p=5382 to https://cress.corsica/5382-2/
+16:58:13	Warning: 	Moved Permanently for https://cress.corsica/Télécharger le document/5372/
+16:58:13	Warning: 	File has moved from https://cress.corsica/Télécharger le document/5372/ to https://cress.corsica/
+16:58:13	Warning: 	Moved Permanently for https://cress.corsica/?p=5340
+16:58:13	Warning: 	File has moved from https://cress.corsica/?p=5340 to https://cress.corsica/3eme-conference-regionale-de-less-en-corse-support-de-presentation/
+16:58:13	Warning: 	Moved Permanently for https://cress.corsica/?p=5278
+16:58:13	Warning: 	File has moved from https://cress.corsica/?p=5278 to https://cress.corsica/saser-10-fiches-rex-retour-dexperience-de-marches-publics-et-structures-de-less/
+16:58:17	Warning: 	Moved Permanently for https://cress.corsica/?p=5510
+16:58:17	Warning: 	File has moved from https://cress.corsica/?p=5510 to https://cress.corsica/la-cress-corsica-recherche-sa-son-alternant-e/
+16:58:21	Warning: 	Moved Permanently for https://cress.corsica/?p=5119
+16:58:21	Warning: 	File has moved from https://cress.corsica/?p=5119 to https://cress.corsica/recourir-au-benevolat-guide-pratique-a-lusage-des-organisateurs-de-grands-evenements-sportifs/
+16:58:21	Warning: 	Moved Permanently for https://cress.corsica/?p=5104
+16:58:21	Warning: 	File has moved from https://cress.corsica/?p=5104 to https://cress.corsica/une-histoire-de-cafe-un-film-sur-les-scic/
+16:58:22	Warning: 	Moved Permanently for https://cress.corsica/?p=5096
+16:58:22	Warning: 	File has moved from https://cress.corsica/?p=5096 to https://cress.corsica/rapport-les-cress-au-service-du-developpement-de-less-remis-a-marlene-schiappa-le-27-fevrier-2023/
+16:58:40	Warning: 	Moved Permanently for https://cress.corsica/?p=4596
+16:58:40	Warning: 	File has moved from https://cress.corsica/?p=4596 to https://cress.corsica/appel-doffre-public-du-centre-communal-daction-sociale-de-bastia-confection-fourniture-et-livraison-de-colis-de-noel-2022/
+16:58:42	Warning: 	Moved Permanently for https://cress.corsica/?p=4578
+16:58:42	Warning: 	File has moved from https://cress.corsica/?p=4578 to https://cress.corsica/ami-poles-territoriaux-de-cooperation-economique-ptce-2022-phase-2/
+16:58:42	Warning: 	Moved Permanently for https://cress.corsica/?p=4570
+16:58:42	Warning: 	File has moved from https://cress.corsica/?p=4570 to https://cress.corsica/semaine-europeenne-de-la-mobilite-16-22-septembre-2022/
+16:58:43	Warning: 	Moved Permanently for https://cress.corsica/?p=4560
+16:58:43	Warning: 	File has moved from https://cress.corsica/?p=4560 to https://cress.corsica/ademe-semaine-europeenne-de-la-reduction-des-dechets-ouverture-des-labellisations-serd-2022/
+16:58:44	Warning: 	Moved Permanently for https://cress.corsica/?p=4551
+16:58:44	Warning: 	File has moved from https://cress.corsica/?p=4551 to https://cress.corsica/appel-a-projets-ademe-2022-developpement-de-leconomie-circulaire-en-corse/
+16:58:45	Warning: 	Moved Permanently for https://cress.corsica/?p=4534
+16:58:45	Warning: 	File has moved from https://cress.corsica/?p=4534 to https://cress.corsica/appel-a-manifestation-dinteret-ami-banque-des-territoires-3e-session-accelerer-la-transition-alimentaire/
+16:58:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcress.corsica%2Fappel-a-manifestation-dinteret-ami-banque-des-territoires-3e-session-accelerer-la-transition-alimentaire%2F (from https://cress.corsica/appel-a-manifestation-dinteret-ami-banque-des-territoires-3e-session-accelerer-la-transition-alimentaire/)
+16:58:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcress.corsica%2Fappel-a-manifestation-dinteret-ami-banque-des-territoires-3e-session-accelerer-la-transition-alimentaire%2F&format=xml (from https://cress.corsica/appel-a-manifestation-dinteret-ami-banque-des-territoires-3e-session-accelerer-la-transition-alimentaire/)
+16:58:51	Warning: 	Retry after error -4 (Receive Error) at link https://cress.corsica/wp-content/uploads/2022/09/Logo-2-1.png (from https://cress.corsica/appel-a-manifestation-dinteret-ami-banque-des-territoires-3e-session-accelerer-la-transition-alimentaire/)
+16:58:52	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://cress.corsica/webinaire-ess-france-commande-publique-et-reemploi-comment-passer-a-laction/ (from https://cress.corsica/page/17/?et_blog)
+16:59:15	Warning: 	Moved Permanently for https://cress.corsica/?p=4664
+16:59:15	Warning: 	File has moved from https://cress.corsica/?p=4664 to https://cress.corsica/appel-doffre-public-collectivite-de-corse-achats-de-prestations-de-services-visant-a-la-realisation-dactions-dinsertions-favorisant-linsertion-sociale-et-ou-professionnell/
+16:59:16	Warning: 	Moved Permanently for https://cress.corsica/?p=4648
+16:59:16	Warning: 	File has moved from https://cress.corsica/?p=4648 to https://cress.corsica/focus-les-societes-cooperatives-et-participatives/
+16:59:17	Warning: 	Moved Permanently for https://cress.corsica/?p=4640
+16:59:17	Warning: 	File has moved from https://cress.corsica/?p=4640 to https://cress.corsica/aap-collectivite-de-corse-educaltitudine-educattitudine-pe-cunosce-e-fa-campa-e-nostre-muntagne-2022-2023/
+16:59:19	Warning: 	Moved Permanently for https://cress.corsica/?p=4628
+16:59:19	Warning: 	File has moved from https://cress.corsica/?p=4628 to https://cress.corsica/le-consortium-ess-coordonne-par-la-collectivite-de-corse-a-effectue-sa-premiere-mobilite-a-majorque/
+16:59:22	Warning: 	Moved Permanently for https://cress.corsica/?p=4619
+16:59:22	Warning: 	File has moved from https://cress.corsica/?p=4619 to https://cress.corsica/la-liste-nationale-des-entreprises-de-less-a-ete-mise-a-jour-en-application-des-dispositions-relatives-au-ldds/
+16:59:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/wp-json/wp/v2/posts/4602 (from https://cress.corsica/feuille-de-route-de-la-secretaire-detat-en-charge-de-leconomie-sociale-et-solidaire-et-de-la-vie-associative-marlene-schiappa/)
+16:59:24	Warning: 	Moved Permanently for https://cress.corsica/?p=4602
+16:59:24	Warning: 	File has moved from https://cress.corsica/?p=4602 to https://cress.corsica/feuille-de-route-de-la-secretaire-detat-en-charge-de-leconomie-sociale-et-solidaire-et-de-la-vie-associative-marlene-schiappa/
+16:59:42	Warning: 	Unexpected socket error during pre-loop
+16:59:43	Warning: 	Unexpected socket error during pre-loop
+16:59:43	Warning: 	Moved Permanently for https://cress.corsica/?p=4465
+16:59:43	Warning: 	File has moved from https://cress.corsica/?p=4465 to https://cress.corsica/appel-a-manifestation-dinteret-ami-academie-de-corse-postes-fonjep-jeunes/
+16:59:44	Warning: 	Moved Permanently for https://cress.corsica/?p=4458
+16:59:44	Warning: 	File has moved from https://cress.corsica/?p=4458 to https://cress.corsica/appel-a-projets-2022-cpam-de-haute-corse-soutien-financier-aux-associations-de-haute-corse/
+16:59:45	Warning: 	Moved Permanently for https://cress.corsica/?p=4446
+16:59:45	Warning: 	File has moved from https://cress.corsica/?p=4446 to https://cress.corsica/appel-doffre-public-collectivite-de-corse-achat-de-formations-au-benefice-des-demandeurs-demploi-du-programme-regional-de-formation-pour-le-compte-de-la-collectivite-de-corse-34-lots/
+16:59:53	Warning: 	Moved Permanently for https://cress.corsica/?p=4422
+16:59:53	Warning: 	File has moved from https://cress.corsica/?p=4422 to https://cress.corsica/agence-nationale-de-la-cohesion-des-territoires-les-petites-rivieres-appel-a-contributions-transition-ecologique/
+16:59:55	Warning: 	Moved Permanently for https://cress.corsica/?p=4415
+16:59:55	Warning: 	File has moved from https://cress.corsica/?p=4415 to https://cress.corsica/assemblea-di-a-giuventu-di-a-corsica-un-budget-participatif-pour-les-jeunes-de-11-a-30-ans/
+16:59:55	Warning: 	Moved Permanently for https://cress.corsica/?p=4404
+16:59:55	Warning: 	File has moved from https://cress.corsica/?p=4404 to https://cress.corsica/aap-dreets-de-corse-augmentation-du-nombre-de-facilitateurs-et-de-coordinateurs-regionaux-sur-le-territoire-national-volet-social/
+16:59:55	Warning: 	Moved Permanently for https://cress.corsica/?p=4397
+16:59:55	Warning: 	File has moved from https://cress.corsica/?p=4397 to https://cress.corsica/appel-a-manifestation-ami-solidaire-selection-dun-operateur-financier-charge-de-la-gestion-dun-fonds/
+16:59:56	Warning: 	Moved Permanently for https://cress.corsica/?p=4389
+16:59:56	Warning: 	File has moved from https://cress.corsica/?p=4389 to https://cress.corsica/edition-cress-nouvelle-aquitaine-ville-de-bordeaux-guide-pratique-sur-la-redirection-ecologique-des-entreprises/
+16:59:57	Warning: 	Moved Permanently for https://cress.corsica/?p=4379
+16:59:57	Warning: 	File has moved from https://cress.corsica/?p=4379 to https://cress.corsica/ess-france-publication-panorama-de-less/
+16:59:57	Warning: 	Moved Permanently for https://cress.corsica/?p=4372
+16:59:57	Warning: 	File has moved from https://cress.corsica/?p=4372 to https://cress.corsica/appel-a-projets-de-la-fondation-edf-agissons-pour-des-territoires-solidaires/
+16:59:58	Warning: 	Moved Permanently for https://cress.corsica/?p=3757
+16:59:58	Warning: 	File has moved from https://cress.corsica/?p=3757 to https://cress.corsica/appel-a-projets-les-defis-2021-aesio-mutuelle/
+16:59:59	Warning: 	Moved Permanently for https://cress.corsica/?p=3748
+16:59:59	Warning: 	File has moved from https://cress.corsica/?p=3748 to https://cress.corsica/mois-de-less-4-webinaires-thematiques-decouvrir-sensibiliser/
+17:00:00	Warning: 	Moved Permanently for https://cress.corsica/?p=3733
+17:00:00	Warning: 	File has moved from https://cress.corsica/?p=3733 to https://cress.corsica/video-ess-france-mettre-en-recit-les-principes-de-less-mettre-lhumain-au-coeur-leconomie-sociale-et-solidaire/
+17:00:00	Warning: 	Moved Permanently for https://cress.corsica/?p=3722
+17:00:00	Warning: 	File has moved from https://cress.corsica/?p=3722 to https://cress.corsica/novembre-2021-30-jours-pour-decouvrir-less/
+17:00:01	Warning: 	Moved Permanently for https://cress.corsica/?p=3717
+17:00:01	Warning: 	File has moved from https://cress.corsica/?p=3717 to https://cress.corsica/ami-gestion-et-exploitation-dune-legumerie/
+17:00:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/appel-a-projets-sante-alimentation-sport-sante/feed/ (from https://cress.corsica/appel-a-projets-sante-alimentation-sport-sante/)
+17:00:01	Warning: 	Retry after error -4 (Incorrect length (8141 Bytes, 11082 expected)) at link https://cress.corsica/wp-json/wp/v2/posts/3710 (from https://cress.corsica/appel-a-projets-sante-alimentation-sport-sante/)
+17:00:02	Warning: 	Moved Permanently for https://cress.corsica/?p=3710
+17:00:02	Warning: 	File has moved from https://cress.corsica/?p=3710 to https://cress.corsica/appel-a-projets-sante-alimentation-sport-sante/
+17:00:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcress.corsica%2Fappel-a-projets-sante-alimentation-sport-sante%2F (from https://cress.corsica/appel-a-projets-sante-alimentation-sport-sante/)
+17:00:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://cress.corsica/wp-json/wp/v2/posts/3710
+17:00:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcress.corsica%2Fappel-a-projets-sante-alimentation-sport-sante%2F&format=xml (from https://cress.corsica/appel-a-projets-sante-alimentation-sport-sante/)
+17:00:09	Warning: 	Moved Permanently for https://cress.corsica/?p=3864
+17:00:09	Warning: 	File has moved from https://cress.corsica/?p=3864 to https://cress.corsica/appel-a-projets-mise-en-place-dactions-daccompagnement-et-de-soutien-des-proches-aidants-sur-le-territoire-de-la-corse-en-2022-2023/
+17:00:10	Warning: 	Moved Permanently for https://cress.corsica/?p=3844
+17:00:10	Warning: 	File has moved from https://cress.corsica/?p=3844 to https://cress.corsica/appel-a-manifestation-dinteret-ami-visant-a-promouvoir-les-groupements-demployeurs-ge-sur-les-territoires/
+17:00:11	Warning: 	Moved Permanently for https://cress.corsica/?p=3835
+17:00:11	Warning: 	File has moved from https://cress.corsica/?p=3835 to https://cress.corsica/2022-appel-a-projets-de-la-fondation-du-credit-cooperatif-donnons-du-souffle-a-votre-initiative-prix-de-linspiration-en-ess/
+17:00:12	Warning: 	Moved Permanently for https://cress.corsica/?p=3819
+17:00:12	Warning: 	File has moved from https://cress.corsica/?p=3819 to https://cress.corsica/appel-a-candidature-de-la-cress-corsica-actions-de-promotion-des-activites-de-la-cress-corsica-gestion-des-reseaux-sociaux-community-manager-relation-presse/
+17:00:12	Warning: 	Moved Permanently for https://cress.corsica/?p=3807
+17:00:12	Warning: 	File has moved from https://cress.corsica/?p=3807 to https://cress.corsica/dilcrah-appel-a-projets-local-2021-2022-pour-la-fraternite-contre-le-racisme-et-lantisemitisme-contre-la-haine-anti-lgbt/
+17:00:13	Warning: 	Moved Permanently for https://cress.corsica/?p=3794
+17:00:13	Warning: 	File has moved from https://cress.corsica/?p=3794 to https://cress.corsica/informations-prime-exceptionnelle-de-pouvoir-dachats-2021-2022/
+17:00:14	Warning: 	Moved Permanently for https://cress.corsica/?p=3630
+17:00:14	Warning: 	File has moved from https://cress.corsica/?p=3630 to https://cress.corsica/synthese-des-mesures-en-faveur-des-structures-de-less-19-avril-2021/
+17:00:15	Warning: 	Moved Permanently for https://cress.corsica/?p=3624
+17:00:15	Warning: 	File has moved from https://cress.corsica/?p=3624 to https://cress.corsica/appel-a-projets-ess-economie-sociale-solidaire-soutien-aux-structures-daccompagnement/
+17:00:15	Warning: 	Moved Permanently for https://cress.corsica/?p=3609
+17:00:15	Warning: 	File has moved from https://cress.corsica/?p=3609 to https://cress.corsica/mobilisation-autour-du-dispositif-parcours-emploi-competences-pec/
+17:00:15	Warning: 	Moved Permanently for https://cress.corsica/?p=3604
+17:00:15	Warning: 	File has moved from https://cress.corsica/?p=3604 to https://cress.corsica/label-achats-responsables-remise-du-rapport-devaluation/
+17:00:16	Warning: 	Moved Permanently for https://cress.corsica/?p=3585
+17:00:16	Warning: 	File has moved from https://cress.corsica/?p=3585 to https://cress.corsica/appel-a-manifestation-dinteret-postes-fonjep-jeunes-de-corse/
+17:00:17	Warning: 	Moved Permanently for https://cress.corsica/?p=3570
+17:00:17	Warning: 	File has moved from https://cress.corsica/?p=3570 to https://cress.corsica/lemploi-dans-less-nest-pas-epargne-par-la-crise-malgre-des-effets-diversifies-etude-sur-la-conjoncture-de-lemploi/
+17:00:18	Warning: 	Moved Permanently for https://cress.corsica/?p=3551
+17:00:18	Warning: 	File has moved from https://cress.corsica/?p=3551 to https://cress.corsica/centre-de-ressources-et-dinformation-des-benevoles-crib/
+17:00:19	Warning: 	Moved Permanently for https://cress.corsica/?p=3534
+17:00:19	Warning: 	File has moved from https://cress.corsica/?p=3534 to https://cress.corsica/appels-a-projets-fonds-pour-le-developpement-de-la-vie-associative-fdva-corse-2021/
+17:00:19	Warning: 	Moved Permanently for https://cress.corsica/?p=3517
+17:00:19	Warning: 	File has moved from https://cress.corsica/?p=3517 to https://cress.corsica/covid-19-mesures-et-dispositifs-daides-a-destination-de-less/
+17:00:20	Warning: 	Moved Permanently for https://cress.corsica/?p=3465
+17:00:20	Warning: 	File has moved from https://cress.corsica/?p=3465 to https://cress.corsica/guide-de-lentrepreneur-social/
+17:00:26	Warning: 	Moved Permanently for https://cress.corsica/guide_entrepreneur_juill2020/
+17:00:26	Warning: 	Warning moved treated for https://cress.corsica/guide_entrepreneur_juill2020/ (real one is https://cress.corsica/wp-content/uploads/2020/08/guide_entrepreneur_JUILL2020.pdf)
+17:00:26	Warning: 	Moved Permanently for https://cress.corsica/?p=3452
+17:00:26	Warning: 	File has moved from https://cress.corsica/?p=3452 to https://cress.corsica/annuaire-des-achats-responsables/
+17:00:28	Warning: 	Moved Permanently for https://cress.corsica/annuaire_achatsresponsables_a5_aout20/
+17:00:28	Warning: 	Warning moved treated for https://cress.corsica/annuaire_achatsresponsables_a5_aout20/ (real one is https://cress.corsica/wp-content/uploads/2020/08/ANNUAIRE_achatsresponsables_A5_aout20.pdf)
+17:00:28	Warning: 	Moved Permanently for https://cress.corsica/?p=3399
+17:00:28	Warning: 	File has moved from https://cress.corsica/?p=3399 to https://cress.corsica/programme-seve-emploi/
+17:00:29	Warning: 	Moved Permanently for https://cress.corsica/?p=2534
+17:00:29	Warning: 	File has moved from https://cress.corsica/?p=2534 to https://cress.corsica/outils-cress-corsica/
+17:00:29	Warning: 	Moved Permanently for https://cress.corsica/?p=2496
+17:00:29	Warning: 	File has moved from https://cress.corsica/?p=2496 to https://cress.corsica/lancement-de-lappel-a-candidatures-women-act/
+17:00:30	Warning: 	Moved Permanently for https://cress.corsica/?p=2094
+17:00:30	Warning: 	File has moved from https://cress.corsica/?p=2094 to https://cress.corsica/conference-europe/
+17:00:31	Warning: 	Moved Permanently for https://cress.corsica/?p=2086
+17:00:31	Warning: 	File has moved from https://cress.corsica/?p=2086 to https://cress.corsica/cumparimpresa/
+17:00:32	Warning: 	Moved Permanently for https://cress.corsica/?p=2080
+17:00:32	Warning: 	File has moved from https://cress.corsica/?p=2080 to https://cress.corsica/on-est-pas-la-pour-rester/
+17:00:33	Warning: 	Moved Permanently for https://cress.corsica/?p=3389
+17:00:33	Warning: 	File has moved from https://cress.corsica/?p=3389 to https://cress.corsica/3389-2/
+17:00:35	Warning: 	Moved Permanently for https://cress.corsica/?p=3361
+17:00:35	Warning: 	File has moved from https://cress.corsica/?p=3361 to https://cress.corsica/lapres-covid-19-une-transition-ecologique-et-solidaire/
+17:00:37	Error: 	"Not Found" (404) at link https://cress.corsica/lapres-covid-19-une-transition-ecologique-et-solidaire/%c2%a0https:/www.democratieouverte.org/nouslespremiers-scenario-democratique/ (from https://cress.corsica/lapres-covid-19-une-transition-ecologique-et-solidaire/)
+17:00:38	Warning: 	Moved Permanently for https://cress.corsica/?p=3354
+17:00:38	Warning: 	File has moved from https://cress.corsica/?p=3354 to https://cress.corsica/aide-etat-2020/
+17:00:38	Warning: 	Moved Permanently for https://cress.corsica/?p=3341
+17:00:38	Warning: 	File has moved from https://cress.corsica/?p=3341 to https://cress.corsica/assemblee-generale-dess-france-du-25-juin-2020-2/
+17:00:39	Warning: 	Moved Permanently for https://cress.corsica/?p=3173
+17:00:39	Warning: 	File has moved from https://cress.corsica/?p=3173 to https://cress.corsica/ess-a-lecole-webinaire/
+17:00:39	Warning: 	Moved Permanently for https://cress.corsica/?p=3096
+17:00:39	Warning: 	File has moved from https://cress.corsica/?p=3096 to https://cress.corsica/drivulinu-point-de-vente-ouverture-balagne/
+17:00:40	Warning: 	Moved Permanently for https://cress.corsica/?p=3089
+17:00:40	Warning: 	File has moved from https://cress.corsica/?p=3089 to https://cress.corsica/les-open-space-et-le-flex-office-ont-ils-encore-leur-place/
+17:00:40	Warning: 	Moved Permanently for https://cress.corsica/?p=2888
+17:00:40	Warning: 	File has moved from https://cress.corsica/?p=2888 to https://cress.corsica/coworking-flex-office/
+17:00:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcress.corsica%2Fcoworking-flex-office%2F (from https://cress.corsica/coworking-flex-office/)
+17:00:41	Warning: 	Retry after error -4 (Receive Error) at link https://cress.corsica/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcress.corsica%2Fcoworking-flex-office%2F&format=xml (from https://cress.corsica/coworking-flex-office/)
+17:00:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/wp-content/uploads/2020/06/download.jpg (from https://cress.corsica/coworking-flex-office/)
+17:00:44	Warning: 	Moved Permanently for https://cress.corsica/?p=2856
+17:00:44	Warning: 	File has moved from https://cress.corsica/?p=2856 to https://cress.corsica/rendez-vous/
+17:00:44	Error: 	"Not Found" (404) at link https://cress.corsica/wp-content/plugins/booking/js/captcha/tmp/975805263.png (from https://cress.corsica/rendez-vous/)
+17:00:45	Warning: 	Moved Permanently for https://cress.corsica/?p=2809
+17:00:45	Warning: 	File has moved from https://cress.corsica/?p=2809 to https://cress.corsica/ess-covid-19/
+17:00:46	Warning: 	Moved Permanently for https://cress.corsica/?p=2801
+17:00:46	Warning: 	File has moved from https://cress.corsica/?p=2801 to https://cress.corsica/portrait-christine-burchi-vandaele/
+17:00:46	Warning: 	Moved Permanently for https://cress.corsica/?p=2632
+17:00:46	Warning: 	File has moved from https://cress.corsica/?p=2632 to https://cress.corsica/kit-municipaless-decouvrez-les-premieres-fiches/
+17:00:46	Error: 	"Not Found" (404) at link https://cress.corsica/2019/11/14/charte-de-less-de-la-cress-corsica/ (from https://cress.corsica/index.php/2019/11/14/charte-de-less-de-la-cress-corsica/)
+17:01:16	Warning: 	Retry after error -4 (Incorrect length (994518 Bytes, 1007428 expected)) at link https://cress.corsica/wp-content/uploads/2020/01/croates-1080x612.png (from https://cress.corsica/category/actus-private/)
+17:01:34	Warning: 	Retry after error -4 (Incorrect length (122136 Bytes, 1060283 expected)) at link https://cress.corsica/wp-content/uploads/2022/12/Panorama-Photos-1080x675.png (from https://cress.corsica/category/news/page/13/)
+17:01:35	Warning: 	Retry after error -4 (Incorrect length (300927 Bytes, 328915 expected)) at link https://cress.corsica/wp-content/uploads/2022/11/Webinaire-Commande-publique_ESS-France-18.11.2022.png (from https://cress.corsica/category/news/page/13/)
+17:01:36	Warning: 	Retry after error -4 (Incorrect length (20015 Bytes, 180877 expected)) at link https://cress.corsica/wp-content/uploads/2022/11/Visuel_Semaine_ASER-1080x675.png (from https://cress.corsica/category/news/page/13/)
+17:01:56	Warning: 	Moved Permanently for https://cress.corsica/?p=2014
+17:01:56	Warning: 	File has moved from https://cress.corsica/?p=2014 to https://cress.corsica/conference-territoriale-ess-2/
+17:02:09	Warning: 	Unexpected socket error during pre-loop
+17:02:10	Warning: 	Moved Permanently for https://cress.corsica/?p=4910
+17:02:10	Warning: 	File has moved from https://cress.corsica/?p=4910 to https://cress.corsica/appel-a-candidatures-de-13m-le-premier-accelerateur-pour-linclusion-numerique/
+17:02:11	Warning: 	Moved Permanently for https://cress.corsica/?p=4902
+17:02:11	Warning: 	File has moved from https://cress.corsica/?p=4902 to https://cress.corsica/fondation-credit-cooperatif-prix-de-linspiration-en-ess/
+17:02:12	Warning: 	Moved Permanently for https://cress.corsica/?p=4892
+17:02:12	Warning: 	File has moved from https://cress.corsica/?p=4892 to https://cress.corsica/appel-a-candidatures-bge-corse-la-cooperative-dinitiatives-jeunes-entrepreneur-e-s-cij/
+17:02:16	Warning: 	Moved Permanently for https://cress.corsica/?p=4872
+17:02:16	Warning: 	File has moved from https://cress.corsica/?p=4872 to https://cress.corsica/appel-doffres-cress-corsica-programme-de-formations-ess-recherche-de-prestataires-organismes-de-formations-certifies-qualiopi/
+17:02:18	Warning: 	Moved Permanently for https://cress.corsica/?p=4834
+17:02:18	Warning: 	File has moved from https://cress.corsica/?p=4834 to https://cress.corsica/appel-a-projet-agence-de-developpement-economique-de-la-corse-adec-rialzu-industria-agroalimentaria/
+17:02:20	Warning: 	Moved Permanently for https://cress.corsica/?p=4822
+17:02:20	Warning: 	File has moved from https://cress.corsica/?p=4822 to https://cress.corsica/appel-a-mobilisation-seve-emploi-2023/
+17:02:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/wp-json/wp/v2/posts/4812 (from https://cress.corsica/appel-a-projets-adec-collectivite-de-corse-economie-sociale-et-solidaire-dispositif-de-soutien-a-la-creation-et-au-developpement-des-structures-de-less/)
+17:02:25	Warning: 	Moved Permanently for https://cress.corsica/?p=4812
+17:02:25	Warning: 	File has moved from https://cress.corsica/?p=4812 to https://cress.corsica/appel-a-projets-adec-collectivite-de-corse-economie-sociale-et-solidaire-dispositif-de-soutien-a-la-creation-et-au-developpement-des-structures-de-less/
+17:02:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcress.corsica%2Fappel-a-projets-adec-collectivite-de-corse-economie-sociale-et-solidaire-dispositif-de-soutien-a-la-creation-et-au-developpement-des-structures-de-less%2F (from https://cress.corsica/appel-a-projets-adec-collectivite-de-corse-economie-sociale-et-solidaire-dispositif-de-soutien-a-la-creation-et-au-developpement-des-structures-de-less/)
+17:02:28	Warning: 	Moved Permanently for https://cress.corsica/?p=4786
+17:02:28	Warning: 	File has moved from https://cress.corsica/?p=4786 to https://cress.corsica/appel-a-manifestation-dinteret-2022-secretaire-detat-chargee-de-less-et-de-la-vie-associative-innovation-sociale/
+17:02:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcress.corsica%2Fappel-a-manifestation-dinteret-2022-secretaire-detat-chargee-de-less-et-de-la-vie-associative-innovation-sociale%2F&format=xml (from https://cress.corsica/appel-a-manifestation-dinteret-2022-secretaire-detat-chargee-de-less-et-de-la-vie-associative-innovation-sociale/)
+17:02:31	Warning: 	Moved Permanently for https://cress.corsica/?p=4760
+17:02:31	Warning: 	File has moved from https://cress.corsica/?p=4760 to https://cress.corsica/aap-pour-la-fraternite-contre-le-racisme-et-lantisemitisme-contre-la-haine-anti-lgbt-2020-2023/
+17:02:32	Warning: 	Moved Permanently for https://cress.corsica/?p=4712
+17:02:32	Warning: 	File has moved from https://cress.corsica/?p=4712 to https://cress.corsica/concours-trophees-des-initiatives-fse-2023/
+17:02:33	Warning: 	Moved Permanently for https://cress.corsica/?p=2732
+17:02:33	Warning: 	File has moved from https://cress.corsica/?p=2732 to https://cress.corsica/portrait-stella-lacrimini/
+17:02:34	Warning: 	Moved Permanently for https://cress.corsica/index.php/lamichi-di-u-rughjone/
+17:02:34	Warning: 	File has moved from https://cress.corsica/index.php/lamichi-di-u-rughjone/ to https://cress.corsica/lamichi-di-u-rughjone/
+17:02:36	Warning: 	Moved Permanently for https://cress.corsica/?p=4363
+17:02:36	Warning: 	File has moved from https://cress.corsica/?p=4363 to https://cress.corsica/appel-a-projets-dreets-de-corse-mise-en-place-du-contrat-dengagement-jeune-volet-jeunes-en-rupture/
+17:02:37	Warning: 	Moved Permanently for https://cress.corsica/?p=4334
+17:02:37	Warning: 	File has moved from https://cress.corsica/?p=4334 to https://cress.corsica/appel-a-projets-2022-drajes-annee-europeenne-de-la-jeunesse/
+17:02:38	Warning: 	Moved Permanently for https://cress.corsica/?p=4324
+17:02:38	Warning: 	File has moved from https://cress.corsica/?p=4324 to https://cress.corsica/appel-a-proposition-de-la-communaute-dagglomeration-du-pays-ajaccien-capa-dispositif-intercommunal-daide-au-developpement-de-lentrepreneuriat-diade-2022/
+17:02:40	Warning: 	Moved Permanently for https://cress.corsica/?p=4132
+17:02:40	Warning: 	File has moved from https://cress.corsica/?p=4132 to https://cress.corsica/appel-a-projets-culture-et-sante-cultura-e-salute-de-lagence-regionale-de-la-sante-ars-de-corse-2022-2023/
+17:02:42	Warning: 	Moved Permanently for https://cress.corsica/?p=4263
+17:02:42	Warning: 	File has moved from https://cress.corsica/?p=4263 to https://cress.corsica/appel-a-projets-fondation-legrand-perte-dautonomie-agir-pour-un-habitat-adapte/
+17:02:44	Warning: 	Moved Permanently for https://cress.corsica/?p=4258
+17:02:44	Warning: 	File has moved from https://cress.corsica/?p=4258 to https://cress.corsica/dispositif-covid-prise-en-charge-des-couts-fixes-des-entreprises-sous-forme-associative/
+17:02:44	Warning: 	Moved Permanently for https://cress.corsica/?p=4251
+17:02:44	Warning: 	File has moved from https://cress.corsica/?p=4251 to https://cress.corsica/appel-a-projets-drajes-de-corse-fonds-pour-le-developpement-de-la-vie-associative-fdva-2022/
+17:02:45	Warning: 	Moved Permanently for https://cress.corsica/?p=4217
+17:02:45	Warning: 	File has moved from https://cress.corsica/?p=4217 to https://cress.corsica/metiers-de-la-cohesion-sociale-le-cese-lance-une-grande-consultation/
+17:02:47	Warning: 	Moved Permanently for https://cress.corsica/?p=4115
+17:02:47	Warning: 	File has moved from https://cress.corsica/?p=4115 to https://cress.corsica/appel-a-projets-2022-pins-de-la-fondation-macif-et-lavise/
+17:02:48	Warning: 	Moved Permanently for https://cress.corsica/?p=4348
+17:02:48	Warning: 	File has moved from https://cress.corsica/?p=4348 to https://cress.corsica/collection-focus-dess-france-issue-des-travaux-du-congres-de-less-decembre-2021/
+17:02:49	Warning: 	Moved Permanently for https://cress.corsica/?p=4315
+17:02:49	Warning: 	File has moved from https://cress.corsica/?p=4315 to https://cress.corsica/le-passeport-benevole-de-france-benevolat/
+17:02:50	Warning: 	Moved Permanently for https://cress.corsica/?p=4305
+17:02:50	Warning: 	File has moved from https://cress.corsica/?p=4305 to https://cress.corsica/appel-a-projets-region-academique-corse-drajes-aap-regional-2022-soutien-au-developpement-du-dispositif-service-civique-en-corse/
+17:02:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/?p=4298 (from https://cress.corsica/financer-les-actions-de-developpement-des-clubs-asptt-projet-sportif-federal-psf/)
+17:02:53	Warning: 	Retry after error -4 (Receive Error) at link https://cress.corsica/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcress.corsica%2Ffinancer-les-actions-de-developpement-des-clubs-asptt-projet-sportif-federal-psf%2F (from https://cress.corsica/financer-les-actions-de-developpement-des-clubs-asptt-projet-sportif-federal-psf/)
+17:02:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcress.corsica%2Ffinancer-les-actions-de-developpement-des-clubs-asptt-projet-sportif-federal-psf%2F&format=xml (from https://cress.corsica/financer-les-actions-de-developpement-des-clubs-asptt-projet-sportif-federal-psf/)
+17:02:54	Warning: 	Moved Permanently for https://cress.corsica/?p=4287
+17:02:54	Warning: 	File has moved from https://cress.corsica/?p=4287 to https://cress.corsica/appel-a-projets-de-la-collectivite-de-corse-prevention-et-promotion-de-la-sante-2022-2023/
+17:02:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cress.corsica/wp-content/et-cache/4287/et-core-unified-4287.min.css?ver=1707740315 (from https://cress.corsica/appel-a-projets-de-la-collectivite-de-corse-prevention-et-promotion-de-la-sante-2022-2023/)
+17:02:58	Warning: 	Moved Permanently for https://cress.corsica/?p=4274
+17:02:58	Warning: 	File has moved from https://cress.corsica/?p=4274 to https://cress.corsica/less-dans-le-srdeii-le-schema-de-developpement-economique-dinnovation-et-dinternationalisation/
+17:02:59	Warning: 	Moved Permanently for https://cress.corsica/?p=4029
+17:02:59	Warning: 	File has moved from https://cress.corsica/?p=4029 to https://cress.corsica/prolongation-du-pret-garanti-par-letat-jusquau-30-juin-2022/
+17:02:59	Warning: 	Moved Permanently for https://cress.corsica/?p=4000
+17:02:59	Warning: 	File has moved from https://cress.corsica/?p=4000 to https://cress.corsica/nouveau-protocole-national-pour-la-sante-et-la-securite-des-salaries-en-entreprise-version-applicable-au-3-janvier-2022/
+17:03:01	Warning: 	Moved Permanently for https://cress.corsica/?p=3995
+17:03:01	Warning: 	File has moved from https://cress.corsica/?p=3995 to https://cress.corsica/interview-rcfm-la-nouvelle-eco-inde-noi/
+17:03:09	Warning: 	Moved Permanently for https://cress.corsica/?p=3872
+17:03:09	Warning: 	File has moved from https://cress.corsica/?p=3872 to https://cress.corsica/astuce-pour-des-communications-percutantes-le-logiciel-canva/
+17:03:09	Warning: 	Moved Permanently for https://cress.corsica/?p=4952
+17:03:09	Warning: 	File has moved from https://cress.corsica/?p=4952 to https://cress.corsica/atelier-cress-corsica-banque-des-territoires-les-dispositifs-de-soutien-aux-acteurs-ess/
+17:03:13	Warning: 	Moved Permanently for https://cress.corsica/?p=4946
+17:03:13	Warning: 	File has moved from https://cress.corsica/?p=4946 to https://cress.corsica/les-associations-et-les-prix-de-lenergie/
+17:03:15	Warning: 	Moved Permanently for https://cress.corsica/?p=4936
+17:03:15	Warning: 	File has moved from https://cress.corsica/?p=4936 to https://cress.corsica/parcours-de-formation-en-ligne-intitule-lillettrisme-au-travail/
+17:03:21	Warning: 	Moved Permanently for https://cress.corsica/?p=4732
+17:03:21	Warning: 	File has moved from https://cress.corsica/?p=4732 to https://cress.corsica/je-lance-mon-spaser-mode-demploi/
+17:03:21	Warning: 	Moved Permanently for https://cress.corsica/?p=4723
+17:03:21	Warning: 	File has moved from https://cress.corsica/?p=4723 to https://cress.corsica/enquete-ess-france-la-responsabilite-territoriale-de-lentreprise-un-socle-pour-penser-le-modele-de-lentreprise-de-demain/
+17:03:22	Warning: 	Moved Permanently for https://cress.corsica/?p=4702
+17:03:22	Warning: 	File has moved from https://cress.corsica/?p=4702 to https://cress.corsica/corse-active-pour-linitiative-concours-regional-entrepreneuriat-engage-edition-2022/
+17:03:23	Warning: 	Moved Permanently for https://cress.corsica/?p=4801
+17:03:23	Warning: 	File has moved from https://cress.corsica/?p=4801 to https://cress.corsica/le-mois-de-less-est-fini-retour-sur-les-temps-forts-2022/
+17:03:25	Warning: 	Moved Permanently for https://cress.corsica/?p=4792
+17:03:25	Warning: 	File has moved from https://cress.corsica/?p=4792 to https://cress.corsica/sulidarita-le-portail-des-ressources-sociales-en-corse/
+17:03:26	Warning: 	Moved Permanently for https://cress.corsica/?p=4780
+17:03:26	Warning: 	File has moved from https://cress.corsica/?p=4780 to https://cress.corsica/publication-de-sept-guides-autour-de-la-formation-des-personnes-eloignees-de-lemploi/
+17:03:26	Warning: 	Retry after error -4 (Receive Error) at link https://cress.corsica/wp-content/et-cache/4780/et-core-unified-4780.min.css?ver=1707580784 (from https://cress.corsica/publication-de-sept-guides-autour-de-la-formation-des-personnes-eloignees-de-lemploi/)
+17:03:27	Warning: 	Retry after error -4 (Receive Error) at link https://cress.corsica/wp-content/et-cache/4780/et-core-unified-deferred-4780.min.css?ver=1707580784 (from https://cress.corsica/publication-de-sept-guides-autour-de-la-formation-des-personnes-eloignees-de-lemploi/)
+17:03:27	Warning: 	Moved Permanently for https://cress.corsica/?p=4431
+17:03:27	Warning: 	File has moved from https://cress.corsica/?p=4431 to https://cress.corsica/offre-demploi-association-service-civique-solidarite-seniors-corse-charge-e-de-developpement/
+17:03:30	Warning: 	Moved Permanently for https://cress.corsica/?p=5298
+17:03:30	Warning: 	File has moved from https://cress.corsica/?p=5298 to https://cress.corsica/focus-legalite-femmes-hommes-dans-leconomie-sociale-et-solidaire-en-corse-edition-2023/
+17:03:31	Warning: 	Moved Permanently for https://cress.corsica/?p=5245
+17:03:31	Warning: 	File has moved from https://cress.corsica/?p=5245 to https://cress.corsica/conference-regionale-de-leconomie-sociale-et-solidaire-en-corse-journee-2-visite-guidee-dentreprises-de-less/
+17:03:31	Warning: 	Moved Permanently for https://cress.corsica/?p=2485
+17:03:31	Warning: 	File has moved from https://cress.corsica/?p=2485 to https://cress.corsica/descodeuses-lecole-du-code-au-feminin-dans-les-quartiers-prioritaires/
+17:03:31	Warning: 	Moved Permanently for https://cress.corsica/?p=2479
+17:03:31	Warning: 	File has moved from https://cress.corsica/?p=2479 to https://cress.corsica/ess-en-europe/
+17:03:31	Warning: 	Moved Permanently for https://cress.corsica/?p=4846
+17:03:31	Warning: 	File has moved from https://cress.corsica/?p=4846 to https://cress.corsica/atelier-ess-de-la-cress-corsica-intervention-de-la-banque-des-territoires-corse-ajaccio-25-01-2023/
+17:03:32	Warning: 	Moved Permanently for https://cress.corsica/?p=4839
+17:03:32	Warning: 	File has moved from https://cress.corsica/?p=4839 to https://cress.corsica/consultation-du-gouvernement-les-assises-de-la-simplification-associative/
+17:03:33	Warning: 	Moved Permanently for https://cress.corsica/?p=2037
+17:03:33	Warning: 	File has moved from https://cress.corsica/?p=2037 to https://cress.corsica/charte-de-less-de-la-cress-corsica/
+17:03:33	Warning: 	Moved Permanently for https://cress.corsica/?p=1765
+17:03:33	Warning: 	File has moved from https://cress.corsica/?p=1765 to https://cress.corsica/focus-siae-en-corse/
+17:03:33	Warning: 	Moved Permanently for https://cress.corsica/Télécharger le document/1757/
+17:03:33	Warning: 	File has moved from https://cress.corsica/Télécharger le document/1757/ to https://cress.corsica/
+17:03:40	Warning: 	Moved Permanently for https://cress.corsica/?p=1715
+17:03:40	Warning: 	File has moved from https://cress.corsica/?p=1715 to https://cress.corsica/les-liens-utiles/
+17:03:41	Warning: 	Moved Permanently for https://cress.corsica/?p=2248
+17:03:41	Warning: 	File has moved from https://cress.corsica/?p=2248 to https://cress.corsica/bullet-journal/
+17:03:42	Warning: 	Moved Permanently for https://cress.corsica/?p=2229
+17:03:42	Warning: 	File has moved from https://cress.corsica/?p=2229 to https://cress.corsica/bonnes-resolutions/
+17:03:43	Warning: 	Retry after error -4 (Receive Error) at link https://cress.corsica/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcress.corsica%2Fbonnes-resolutions%2F&format=xml (from https://cress.corsica/bonnes-resolutions/)
+17:03:50	Warning: 	Moved Permanently for https://cress.corsica/?p=4298
+17:03:50	Warning: 	File has moved from https://cress.corsica/?p=4298 to https://cress.corsica/financer-les-actions-de-developpement-des-clubs-asptt-projet-sportif-federal-psf/
+17:03:50	Warning: 	Moved Permanently for https://cress.corsica/?p=3962
+17:03:50	Warning: 	File has moved from https://cress.corsica/?p=3962 to https://cress.corsica/les-waldeck-prix-du-mouvement-associatif/
+17:03:50	Warning: 	Moved Permanently for https://cress.corsica/?p=3881
+17:03:50	Warning: 	File has moved from https://cress.corsica/?p=3881 to https://cress.corsica/concours-2022-de-la-fondation-la-france-sengage/
+17:03:50	Warning: 	Moved Permanently for https://cress.corsica/?p=4774
+17:03:50	Warning: 	File has moved from https://cress.corsica/?p=4774 to https://cress.corsica/webinaire-ess-france-commande-publique-et-reemploi-comment-passer-a-laction/
+17:03:50	Warning: 	Moved Permanently for https://cress.corsica/?p=2608
+17:03:50	Warning: 	File has moved from https://cress.corsica/?p=2608 to https://cress.corsica/lamichi-di-u-rughjone/
+
+HTTrack Website Copier/3.49-2 mirror complete in 48 minutes 51 seconds : 2969 links scanned, 2663 files written (210764307 bytes overall) [183362295 bytes received at 62559 bytes/sec], 35848548 bytes transferred using HTTP compression in 1121 files, ratio 19%, 15.9 requests per connection
+(9 errors, 557 warnings, 0 messages)
